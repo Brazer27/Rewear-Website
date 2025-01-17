@@ -1,6 +1,6 @@
-# Rework: Upcycle & Recycle Platform
+# Rewear: Upcycle & Recycle Platform
 
-Rework is a web application aimed at promoting sustainability by enabling users to recycle or upcycle their old items, particularly clothes, into new and useful products like bags or accessories. This platform encourages eco-friendly habits while fostering a community of creative, environmentally conscious individuals.
+Rewear is a web application aimed at promoting sustainability by enabling users to recycle or upcycle their old items, particularly clothes, into new and useful products like bags or accessories. This platform encourages eco-friendly habits while fostering a community of creative, environmentally conscious individuals.
 
 ## Features
 - **Login & Register**: Secure user authentication to personalize the experience.
